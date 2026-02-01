@@ -26,9 +26,15 @@ Yanliang Ge, Yuxi Zhong, Qiao Zhang, Hongbo Bi and Tian-Zhu Xiang
 
 
 @article{ge2025weakly,
+
   title={Weakly-supervised Camouflaged Object Detection via SAM-guided Resolution Iteration Learning},
+  
   author={Ge, Yanliang and Zhong, Yuxi and Zhang, Qiao and Bi, Hongbo and Xiang, Tian-Zhu},
+  
   journal={IEEE Transactions on Big Data},
+  
   year={2025},
+  
   publisher={IEEE}
+  
 }
